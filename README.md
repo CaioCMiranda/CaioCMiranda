@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CaioCMiranda
-- 👀 I’m interested in ALL THINGS 
+- 👀 I’m interested in FullStack things 
 - 🌱 I’m currently learning HTML,CSS, JS, NODEJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Instagram: cesar_caioo
